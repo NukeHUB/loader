@@ -1,0 +1,4 @@
+--BETA--
+--ZzVHEXTYzZ--
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkylineUser0/loader/main/All%20in%20one%20PSX.lua", true))()
